@@ -1,0 +1,8 @@
+[settings]
+server=
+loginname=
+loginpass=
+checkeveryon=1
+checkeverymin=5
+launchatstartup=0
+enablesound=0
